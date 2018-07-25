@@ -16,7 +16,6 @@ The remote nodes allow you to connect to the Bitcoin Nero network without having
   node-12.btcnero.org:17151
   node-13.btcnero.org:17151
   node-14.btcnero.org:17151
-  node-15.btcnero.org:17151
 ```
 
 ## Use
